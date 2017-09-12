@@ -1,1 +1,1 @@
-echo $Test11
+echo %1
